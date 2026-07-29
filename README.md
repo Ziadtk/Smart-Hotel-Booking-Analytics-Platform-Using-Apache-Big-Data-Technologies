@@ -87,3 +87,57 @@ The cleaned dataset was successfully saved in:
 
 
 
+# Phase 4: Data Analysis Using Apache Hive
+
+## Objective
+Analyze the cleaned hotel booking dataset stored in HDFS using Apache Hive.
+
+## Technologies
+- Apache Hive
+- Hadoop HDFS
+
+## Steps
+
+1. Create Hive database.
+2. Create an external table linked to the cleaned dataset in HDFS.
+3. Execute analytical SQL queries.
+
+## Analysis Performed
+
+- Total Bookings
+- Booking Trend by Month
+- Cancellation Rate
+- Hotel Type Comparison
+- Average Daily Rate (ADR)
+- Booking Distribution by Country
+- Customer Type Analysis
+- Top Countries by Bookings
+
+## Dataset Location
+
+HDFS:
+/hotel_project/cleaned_data_final
+
+<img width="703" height="283" alt="image" src="https://github.com/user-attachments/assets/2d87c7eb-086b-464a-bbfc-2513324a3e7d" />
+<img width="625" height="721" alt="image" src="https://github.com/user-attachments/assets/e2d74a13-7c6e-42f4-8bf2-20f63116f07b" />
+
+<img width="926" height="721" alt="image" src="https://github.com/user-attachments/assets/42448bf8-a8ed-4e49-bb6e-01116af24260" />
+<img width="1253" height="41" alt="image" src="https://github.com/user-attachments/assets/9c1cf9fe-6e5a-479c-b040-8e03474124c3" />
+<img width="492" height="75" alt="image" src="https://github.com/user-attachments/assets/077f8d0e-4651-4c1e-91ba-0f2f7520fe47" />
+<img width="990" height="99" alt="image" src="https://github.com/user-attachments/assets/afbbadbe-1a62-45a8-ae7d-8794ee1409e9" />
+<img width="875" height="102" alt="image" src="https://github.com/user-attachments/assets/b60be0a1-d09e-43f2-a96d-586c65f04523" />
+<img width="1149" height="129" alt="image" src="https://github.com/user-attachments/assets/b7322698-696b-4be5-a830-8c206a3ecc21" />
+<img width="687" height="265" alt="image" src="https://github.com/user-attachments/assets/2a085736-ca6b-4ff4-9aa0-c090f073b4c0" />
+<img width="957" height="141" alt="image" src="https://github.com/user-attachments/assets/c3b36c5b-a714-4a43-ab79-6f97cc60c6e1" />
+<img width="462" height="64" alt="image" src="https://github.com/user-attachments/assets/1967c66c-c2ee-4d03-ad01-b120e186d701" />
+<img width="1077" height="112" alt="image" src="https://github.com/user-attachments/assets/4bcca15f-ad08-419b-be28-1feb8a568532" />
+<img width="542" height="89" alt="image" src="https://github.com/user-attachments/assets/e3698e24-0aaa-4b9f-abd7-bb35de6e9b05" />
+<img width="571" height="95" alt="image" src="https://github.com/user-attachments/assets/96639f8b-500c-44bc-bbe4-3e1f4b23374e" />
+<img width="476" height="71" alt="image" src="https://github.com/user-attachments/assets/b74422b7-0e04-4f45-a545-15c493a2f65b" />
+<img width="638" height="143" alt="image" src="https://github.com/user-attachments/assets/86f894e6-4bff-4024-ab6f-df6d58c6d486" />
+<img width="574" height="238" alt="image" src="https://github.com/user-attachments/assets/706b1c58-c3ea-4a0f-881c-fd45182be7eb" />
+<img width="853" height="125" alt="image" src="https://github.com/user-attachments/assets/3946a032-474e-4479-aa36-f0c98bb5175b" />
+<img width="676" height="144" alt="image" src="https://github.com/user-attachments/assets/43bfdc6c-a839-41e8-b03b-1327546246d5" />
+
+
+
