@@ -82,6 +82,7 @@ The cleaned dataset was successfully saved in:
 <img width="1135" height="569" alt="image" src="https://github.com/user-attachments/assets/0660cf01-506b-42e6-ab63-3773d3a09bca" />
 <img width="1141" height="568" alt="image" src="https://github.com/user-attachments/assets/20c5b93a-01ff-46ee-a554-c34b7d797426" />
 <img width="1101" height="377" alt="image" src="https://github.com/user-attachments/assets/023deb1a-3a78-4bcb-a00c-0ad1032bca6b" />
+<img width="834" height="127" alt="image" src="https://github.com/user-attachments/assets/8c5982a7-9185-4ff1-b769-fbab5e5be14d" />
 
 
 
