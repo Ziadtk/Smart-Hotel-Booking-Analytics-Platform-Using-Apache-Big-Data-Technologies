@@ -48,3 +48,41 @@ Dataset stored in:
 The dataset is now available inside Hadoop HDFS and ready for Spark ETL processing.
 
 
+# Phase 3: Spark ETL & Data Cleaning
+
+## Objective
+Clean and transform the hotel booking dataset using Apache Spark before loading it into Hive.
+
+## Technologies
+- Apache Spark 3.0.1
+- Hadoop HDFS
+- Jupyter Notebook
+
+## ETL Steps
+
+1. Read the dataset from HDFS.
+2. Explore the dataset.
+3. Handle missing values.
+4. Remove duplicate records.
+5. Create new calculated columns:
+   - total_nights
+   - total_guests
+   - total_stay_cost
+6. Save the cleaned dataset back into HDFS.
+
+## Output
+
+The cleaned dataset was successfully saved in:
+
+/hotel_project/cleaned_data_final
+
+<img width="1135" height="612" alt="image" src="https://github.com/user-attachments/assets/7662f9c5-97aa-469f-8d30-aa29408539b4" />
+<img width="1140" height="576" alt="image" src="https://github.com/user-attachments/assets/d54ca82a-6726-412f-bbe1-079ac8ad1498" />
+<img width="1127" height="462" alt="image" src="https://github.com/user-attachments/assets/ad11d38c-ad40-4ee3-8807-69eb359d0aee" />
+<img width="1135" height="569" alt="image" src="https://github.com/user-attachments/assets/0660cf01-506b-42e6-ab63-3773d3a09bca" />
+<img width="1141" height="568" alt="image" src="https://github.com/user-attachments/assets/20c5b93a-01ff-46ee-a554-c34b7d797426" />
+<img width="1101" height="377" alt="image" src="https://github.com/user-attachments/assets/023deb1a-3a78-4bcb-a00c-0ad1032bca6b" />
+
+
+
+
