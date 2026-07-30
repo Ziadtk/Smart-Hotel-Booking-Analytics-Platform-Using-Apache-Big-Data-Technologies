@@ -41,9 +41,10 @@ Dataset stored in:
 
 
 <img width="1184" height="270" alt="image" src="https://github.com/user-attachments/assets/4a8d95db-adf0-4799-b292-c2552e35a2b2" />
+<img width="1191" height="47" alt="image" src="https://github.com/user-attachments/assets/db022a8f-ff4d-413d-98df-12e1bb75b8a2" />
 <img width="745" height="94" alt="image" src="https://github.com/user-attachments/assets/39b8e050-3f73-4bb4-b11c-f8e49741682f" />
 <img width="712" height="426" alt="image" src="https://github.com/user-attachments/assets/c4e984ce-7324-4a85-b49e-a9f38dc8dc57" />
-<img width="1191" height="47" alt="image" src="https://github.com/user-attachments/assets/db022a8f-ff4d-413d-98df-12e1bb75b8a2" />
+
 
 The dataset is now available inside Hadoop HDFS and ready for Spark ETL processing.
 
